@@ -1,0 +1,1 @@
+hello this is just an initial approach for git
